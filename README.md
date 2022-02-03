@@ -59,7 +59,8 @@ TOKEN_WASM => "../../res/dtoken.wasm",  ---------------- тут может бы�
 
 ## проблемы которые могут возникнуть во время билда это не установленные пакети типа 
 
-![img.png](img.png)
+![image](https://user-images.githubusercontent.com/97089150/152327929-3c4e0711-2970-4da3-8bcd-be2c920833d5.png)
+
 
 резольвится с помощью установки библиотек, см. https://programmerah.com/solved-error-failed-to-run-custom-build-command-for-librocksdb-sys-v6-17-3-32728/
 
